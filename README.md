@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="  <img height="150" src="https://github.com/jalmosquera/svg/blob/main/logoJal.svg"  />"  />
+  <img height="150" src="https://github.com/jalmosquera/svg/blob/main/logoJal.svg"/>
 </div>
 
 ###
