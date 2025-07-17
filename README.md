@@ -20,7 +20,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/jalmosquera/svg/main/py.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/jalmosquera/svg/main/dj.svg" height="40" alt="django logo" />
