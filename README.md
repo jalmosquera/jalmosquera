@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=200&section=header&text=Jalberth&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Backend+Developer+%7C+Python+%7C+APIs&descSize=20&descAlignY=62&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F0630F&height=200&section=header&text=Jalberth&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Backend+Developer+%7C+Python+%7C+APIs&descSize=20&descAlignY=62&descAlign=50)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -79,13 +79,13 @@ profile = {
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jalmosquera&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=jalmosquera&theme=tokyonight&hide_border=true&background=0d1117&ring=F0630F&fire=F0630F&currStreakLabel=F0630F" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jalmosquera&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00b4d8&line=0077b6&point=00b4d8" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jalmosquera&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=F0630F&line=F0630F&point=F0630F" alt="Activity Graph"/>
 </div>
 
 ---
@@ -101,4 +101,4 @@ profile = {
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=F0630F&height=120&section=footer)
