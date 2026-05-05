@@ -1,40 +1,97 @@
-<div align="center">
-  <img height="150" src="https://github.com/jalmosquera/svg/blob/main/generated-image (2).png"/>
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-###
-
-<p align="left">I'm Jalberth, backend developer focused on security and robustness.<br><br>- 🔭 I work with solid backend systems.<br>- 📚 I'm continuously reinforcing deep knowledge in Go, Rust, Python, and cloud infrastructure.<br>- ⚡ In my free time, I optimize and secure code, no nonsense.</p>
-
-###
-
-<h3 align="left">🛠 Languages & Tools</h3>
-
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:00b4d8&height=220&section=header&text=Jalberth&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Backend%20Developer%20%E2%80%94%20Python%20%7C%20APIs%20%7C%20Clean%20%26%20Practical&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jalmosquera/svg/main/py.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/jalmosquera/svg/main/dj.svg" height="40" alt="django logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/jalmosquera/svg/main/fastapi.svg" height="40" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/jalmosquera/svg/main/docker.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/jalmosquera/svg/main/Github_dark.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/jalmosquera/svg/main/git.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/jalmosquera/svg/main/linux.svg" height="40" alt="linux logo" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&random=false&width=560&lines=Backend+Developer+%F0%9F%90%8D;Django+%7C+DRF+%7C+FastAPI;Well-structured+APIs.+No+overengineering.+%E2%9A%A1;Clean+%26+Maintainable.+Works+in+production." alt="Typing SVG" />
+  </a>
 </div>
 
+<br/>
 
+---
 
+## `$ whoami`
+
+```python
+profile = {
+    "name":     "Jalberth",
+    "role":     "Backend Developer",
+    "location": "Malaga, Spain 🇪🇸",
+    "focus":    ["Clean APIs", "Practical deployments", "No overengineering"],
+    "stack":    ["Python", "Django", "DRF", "FastAPI", "PostgreSQL", "Docker"],
+    "mantra":   "If it works in production and the code is readable — it's good.",
+}
+```
+
+- 🔭 Building **clean, functional backend systems** with well-structured APIs
+- 🛠 Specializing in **Django REST Framework** and **FastAPI** for production-ready APIs
+- 🚀 Deploying on **Railway** (backend + DB) and **Vercel** (frontend)
+- 🌐 Open to collaboration on **backend projects** that value simplicity over complexity
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Database & Auth**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**DevOps & Deployment**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jalmosquera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalmosquera&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jalmosquera&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmosquera2305@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jalmosquera)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:0d1117&height=120&section=footer" width="100%"/>
