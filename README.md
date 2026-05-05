@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:00b4d8&height=220&section=header&text=Jalberth&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Backend%20Developer%20%E2%80%94%20Python%20%7C%20APIs%20%7C%20Clean%20%26%20Practical&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=200&section=header&text=Jalberth&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Backend+Developer+%7C+Python+%7C+APIs+%7C+Clean+%26+Practical&descSize=18&descAlignY=62&descAlign=50)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -101,4 +101,4 @@ profile = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:0d1117&height=120&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=footer)
