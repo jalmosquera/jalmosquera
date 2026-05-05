@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=200&section=header&text=Jalberth&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Backend+Developer+%7C+Python+%7C+APIs+%7C+Clean+%26+Practical&descSize=18&descAlignY=62&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=200&section=header&text=Jalberth&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Backend+Developer+%7C+Python+%7C+APIs&descSize=20&descAlignY=62&descAlign=50)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
